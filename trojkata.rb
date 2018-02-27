@@ -1,4 +1,4 @@
-a = gets.to_i
-h = gets.to_i
+a = gets.to_f
+h = gets.to_f
 
 puts 0.5 * a * h
